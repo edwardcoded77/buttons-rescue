@@ -2,7 +2,7 @@ body { background: #fff; font-family: "Nunito", sans-serif; }
 .container { max-width: 52rem; margin: 0 auto; padding: 2rem 1rem; }
 
 .tagline {
-  color: hsl(20, 20%, 94%);
+  color: #5f554d;
   font-size: 1.25rem;
 }
 
