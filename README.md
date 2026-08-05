@@ -1,4 +1,4 @@
-# Buttons' Rescue
+# Buttons Rescue
 
 Buttons was rescued about five years ago after being found alone and in need of care. After spending the last eight months at Marmalade Nook,he is ready for his next chapter.
 A loving forever home where he can feel safe,cherished and loved.
